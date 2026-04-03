@@ -83,3 +83,7 @@ Configuration
 Fichier de configuration du backend pour définir la connexion à la base de données (URL, nom d’utilisateur, mot de passe).
 
 Eventuellement, variables d’environnement pour l’URL de l’API dans le frontend.
+<img width="1913" height="948" alt="Capture d&#39;écran 2024-12-10 163725" src="https://github.com/user-attachments/assets/82cb16fa-5eaf-440f-b6db-856c05d709aa" />
+<img width="1919" height="831" alt="Capture d&#39;écran 2024-12-10 163758" src="https://github.com/user-attachments/assets/c8114ec2-ce20-4c23-80e2-a337ef8cd5f7" />
+<img width="1916" height="887" alt="Capture d&#39;écran 2024-12-10 163839" src="https://github.com/user-attachments/assets/78d3fc03-1683-485d-a9c1-0f9d48168384" />
+<img width="1156" height="906" alt="Capture d&#39;écran 2024-12-10 163915" src="https://github.com/user-attachments/assets/79e002c2-f7ce-435d-8bb5-e1f93d11ba2e" />
